@@ -34,7 +34,8 @@ Here is how I have systematically built my technical skills, starting from core 
 * **[Proyecto 12: Serverless API Architecture](https://github.com/Ferdev49/proyecto12-serverless-api):** Built a full serverless backend managing 37 distinct AWS resources (API Gateway v1, AWS Lambda, DynamoDB) via IaC.
 * **[Proyecto 13: Auto Scaling & Load Balancing](https://github.com/Ferdev49/proyecto13-auto-scaling):** Configured dynamic Scaling Policies to handle traffic fluctuations efficiently.
 * **[🔄 CI/CD Pipeline with GitHub Actions](https://github.com/Ferdev49/your-repo-name-here):** Automated build and deployment tasks to practice continuous integration fundamentals.
-* **[Proyecto 14: Cost Optimization](https://github.com/Ferdev49/proyecto14-cost-optimization) & [Proyecto 15: EKS Basics](https://github.com/Ferdev49/proyecto15-eks-basics):** My most recent challenge labs, exploring FinOps concepts (AWS Budgets) and basic Kubernetes cluster provisioning with Terraform.
+* **[Proyecto 14: Cost Optimization](https://github.com/Ferdev49/proyecto14-cost-optimization):** My introduction to FinOps, featuring AWS Budgets configuration, S3 lifecycle policies, and automated billing tracking.
+* **[Proyecto 15: AWS EKS Basics](https://github.com/Ferdev49/proyecto15-eks-basics):** My most recent challenge lab exploring managed Kubernetes cluster provisioning, node groups configuration, and `kubeconfig` management using Terraform.
 
 ---
 
