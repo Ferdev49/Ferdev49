@@ -40,5 +40,5 @@ Here is how I have systematically built my technical skills, starting from core 
 ---
 
 ## 📬 Connect with me
-- **LinkedIn:** [Your-LinkedIn-Link-Here]
-- **Portfolio Website:** [Your-Live-Website-URL-Here]
+- **LinkedIn:** [linkedin.com/in/fbecerrildev](https://linkedin.com/in/fbecerrildev)
+- **Portfolio Website:** [dymxousj4rhos.cloudfront.net](https://dymxousj4rhos.cloudfront.net)
