@@ -1,42 +1,43 @@
-# Fer Becerril — Junior DevOps/Cloud Engineer
+# Hi, I'm Fernando Becerril Padilla 👋
+### Cloud & DevOps Associate | Building Foundations in IaC & Automation
 
-☁️ **AWS Certified Cloud Practitioner** (Feb 2029)  
-🏗️ Building production-grade infrastructure on AWS  
-🔧 Terraform · Docker · Kubernetes · GitHub Actions · Python  
-📍 CDMX, México — Remote-first
+Analytical and structured Professional looking for my first professional opportunity in Cloud, DevOps, or Cybersecurity. I focus on building solid foundations, learning through hands-on practice, and deploying infrastructure following the AWS Well-Architected Framework. 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [Serverless API](https://github.com/Ferdev49/proyecto12-serverless-api) | Lambda · API Gateway · DynamoDB · Terraform | 37 IaC resources |
-| [Auto Scaling + ALB](https://github.com/Ferdev49/proyecto13-auto-scaling) | ALB · ASG · EC2 · Terraform | Multi-AZ HA |
-| [Terraform VPC](https://github.com/Ferdev49/proyecto5-terraform-vpc) | Terraform · VPC · NAT · Subnets | IaC foundation |
-| [Amazon EKS](https://github.com/Ferdev49/proyecto15-eks-basics) | Kubernetes · EKS · Terraform | Managed K8s |
+## 🛠️ Tech Stack & Tools
+- **Cloud Infrastructure:** AWS (VPC, EC2, S3, CloudFront, Lambda, RDS, DynamoDB)
+- **Infrastructure as Code (IaC):** Terraform (HCL)
+- **Containers:** Docker, Docker Compose, Kubernetes Basics
+- **Core Technical Skills:** Linux (Ubuntu), Git, GitHub Actions, Python, Bash
 
 ---
 
-## 📂 All Projects
+## 📈 Learning Journey & Project Evolution
 
-| # | Project | Stack |
-|---|---------|-------|
-| 15 | [EKS Basics](https://github.com/Ferdev49/proyecto15-eks-basics) | Kubernetes · EKS · Terraform |
-| 14 | [Cost Optimization](https://github.com/Ferdev49/proyecto14-cost-optimization) | Budgets · S3 Lifecycle · CloudWatch |
-| 13 | [Auto Scaling + ALB](https://github.com/Ferdev49/proyecto13-auto-scaling) | ALB · ASG · EC2 · Terraform |
-| 12 | [Serverless API](https://github.com/Ferdev49/proyecto12-serverless-api) | Lambda · API Gateway · DynamoDB |
-| 11 | [Backup & Recovery](https://github.com/Ferdev49/proyecto11-backup-recovery) | RDS · PITR · Snapshots |
-| 10 | [IAM Cross-Account](https://github.com/Ferdev49/proyecto10-iam-cross-account) | IAM · CloudTrail · Least Privilege |
-| 9 | [Monitoring & Alerting](https://github.com/Ferdev49/proyecto9-monitoring-alerting) | CloudWatch · SNS · EventBridge |
-| 8 | [RDS Aurora](https://github.com/Ferdev49/proyecto8-rds-aurora) | Aurora MySQL · Multi-AZ · Terraform |
-| 7 | [Serverless Website](https://github.com/Ferdev49/proyecto7-serverless-website) | S3 · CloudFront · Lambda@Edge |
-| 6 | [ECS Fargate + ALB](https://github.com/Ferdev49/proyecto6-ecs-fargate-alb) | ECS · Fargate · ALB · Terraform |
-| 5 | [Terraform VPC](https://github.com/Ferdev49/proyecto5-terraform-vpc) | Terraform · VPC · NAT · Subnets |
-| 4 | [Docker Multi-Container](https://github.com/Ferdev49/Docker-compose) | Docker · Flask · React · PostgreSQL |
+Here is how I have systematically built my technical skills, starting from core infrastructure concepts up to my recent advanced laboratory exercises:
+
+### Phase 1: Core Networking, Containers & Static Hosting
+* **[Proyecto 5: Production-Ready Terraform VPC](https://github.com/Ferdev49/proyecto5-terraform-vpc):** My foundational networking lab. Provisioned a secure Multi-AZ network with strict public/private subnet isolation and NAT Gateways using Terraform.
+* **[Proyecto 4: Multi-Container Apps (Docker Compose)](https://github.com/Ferdev49/Docker-compose):** Local containerization practice orchestrating a multi-tier application (React, Flask, PostgreSQL) using Docker Compose.
+* **[Proyecto 6: AWS ECS Fargate & ALB](https://github.com/Ferdev49/proyecto6-ecs-fargate-alb):** Moving containers to the cloud. Deployed serverless containers using Amazon ECS Fargate integrated with an Application Load Balancer.
+* **[Proyecto 7: Serverless Static Website](https://github.com/Ferdev49/proyecto7-serverless-website) & [Website](https://github.com/Ferdev49/Website):** My professional cloud portfolio website hosted on S3 and distributed globally with low latency via CloudFront.
+
+### Phase 2: Managed Databases, Monitoring & Security Governance
+* **[Proyecto 8: Managed Databases with RDS Aurora](https://github.com/Ferdev49/proyecto8-rds-aurora):** Configured a high-performance MySQL multi-AZ cluster with automated encryption at rest and in transit.
+* **[Proyecto 11: Backup & Recovery Configuration](https://github.com/Ferdev49/proyecto11-backup-recovery):** Implemented Point-in-Time Recovery (PITR) and snapshot automation strategies for database disaster recovery.
+* **[Proyecto 9: Infrastructure Monitoring & Alerting](https://github.com/Ferdev49/proyecto9-monitoring-alerting):** Setup proactive system supervision utilizing CloudWatch metrics, automated SNS alerts, and EventBridge notifications.
+* **[Proyecto 10: IAM Cross-Account Access](https://github.com/Ferdev49/proyecto10-iam-cross-account):** Practiced cloud governance and security compliance by implementing Least Privilege policies and activity logging via AWS CloudTrail.
+
+### Phase 3: Advanced Architectures, Automation & Next Steps
+* **[3-Tier AWS Architecture](https://github.com/Ferdev49/your-repo-name-here):** Designed a traditional, highly available multi-tier web application architecture using ALB, EC2, and RDS.
+* **[Proyecto 12: Serverless API Architecture](https://github.com/Ferdev49/proyecto12-serverless-api):** Built a full serverless backend managing 37 distinct AWS resources (API Gateway v1, AWS Lambda, DynamoDB) via IaC.
+* **[Proyecto 13: Auto Scaling & Load Balancing](https://github.com/Ferdev49/proyecto13-auto-scaling):** Configured dynamic Scaling Policies to handle traffic fluctuations efficiently.
+* **[🔄 CI/CD Pipeline with GitHub Actions](https://github.com/Ferdev49/your-repo-name-here):** Automated build and deployment tasks to practice continuous integration fundamentals.
+* **[Proyecto 14: Cost Optimization](https://github.com/Ferdev49/proyecto14-cost-optimization) & [Proyecto 15: EKS Basics](https://github.com/Ferdev49/proyecto15-eks-basics):** My most recent challenge labs, exploring FinOps concepts (AWS Budgets) and basic Kubernetes cluster provisioning with Terraform.
 
 ---
 
-🌐 [Portfolio](https://dymxousj4rhos.cloudfront.net) · 
-💼 [LinkedIn](https://linkedin.com/in/fbecerrildev) · 
-📧 fbecerril.dev@gmail.com
+## 📬 Connect with me
+- **LinkedIn:** [Your-LinkedIn-Link-Here]
+- **Portfolio Website:** [Your-Live-Website-URL-Here]
